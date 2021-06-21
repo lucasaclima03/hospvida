@@ -3,6 +3,8 @@ Projeto feito para a Universidade Tiradentes que tem como objetivo cadastrar, ed
   
 Para executar o Hospvida você deverá baixar todos os arquivos para sua máquina
   
-Adicionar o banco de dados no seu servidor (arquivo: dados.sql)
+Adicionar o banco de dados (arquivo: dados.sql)
   
-Rodar o programa estando com o um servidor apache rodando na sua máquina
+Ir até o arquivo config.php adicionar os dados e rodar o arquilo dados.sql
+  
+Rodar o programa acessando o arquivo index.php no diretório principal
