@@ -27,7 +27,7 @@ Projeto feito para a Universidade Tiradentes que tem como objetivo cadastrar, ed
   
 2. Adicionar o banco de dados (arquivo: dados.sql)
   
-3. Ir até o arquivo config.php adicionar os seus dados e rodar o arquilo dados.sql
+3. Ir até o arquivo config.php adicionar os seus dados e rodar o arquivo dados.sql
   
 4. Rodar o programa acessando o arquivo index.php no diretório principal
 
